@@ -10,4 +10,5 @@ French schooling is often the focus of attention when it comes to issues of ineq
 
 ### Instructions
 Le code de la stratégie empirique se trouve dans le notebook : EffetCSP_LV2.
-Le rapport se trouve dans le fichier : 
+
+Le rapport se trouve dans le fichier : Froment_Nicolas_PDSSS.pdf
