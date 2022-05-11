@@ -2,6 +2,7 @@
 Projet Data Science et Sciences Sociales -- ENSAE
 
 Auteurs : Julia Nicolas et Théophile Froment
+
 Encadrant : Roland Rathelot
 
 ### Abstract
